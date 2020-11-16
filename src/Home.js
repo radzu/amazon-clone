@@ -22,7 +22,7 @@ function Home() {
             id="2094393"
             title="Kenwood kMix Stand Mixer for Baking, Stylish Kitchen Mixer with k-beater, Dough Hook and Whisk, 5 Litre Glass Bowl"
             price={239.0}
-            image="https://images-na.ssl-images-amazon.com/images/I/810%2BGNdkzKL._AC_SX450_.jpg"
+            image="https://images-na.ssl-images-amazon.com/images/I/51Zymoq7UnL._AC_SY400_.jpg"
             rating={4}/>
         </div>
         <div className="home__row">
@@ -48,7 +48,12 @@ function Home() {
 
         <div
           className="home__row">
-          {/* Product */}
+          <Product
+            id="2993223"
+            title="The lean startup"
+            price={29.99}
+            image="https://images-na.ssl-images-amazon.com/images/I/51Zymoq7UnL._AC_SY400_.jpg"
+            rating={5}/>
         </div>
 
       </div>
